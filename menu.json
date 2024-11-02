@@ -1,0 +1,19 @@
+{
+  "menus": [
+    {
+      "label": "File",
+      "submenus": [
+        { "label": "Open", "action": "OpenFile" },
+        { "label": "Save", "action": "SaveFile" },
+        { "label": "Save as", "action": "SaveFileAs" },
+        { "Label": "Quit", "Action": "quit"}
+      ]
+    },
+    {
+      "label": "Help",
+      "submenus": [
+        { "label": "About", "action": "About" }
+      ]
+    }
+  ]
+}
